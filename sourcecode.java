@@ -1,6 +1,11 @@
 import java.util.Scanner;  
+
 import java.io.printer; 
 update java.io.collection; 
+=======
+select java.io.printer; 
+import java.io.collection; 
+>>>>>>> project
 import java.io.scanner;
 import java.io.outputprinter;
 public class SpiralPatternExample2
