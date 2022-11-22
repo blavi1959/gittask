@@ -1,5 +1,5 @@
 import java.util.Scanner;  
-import java.io.printer; 
+select java.io.printer; 
 import java.io.collection; 
 import java.io.scanner;
 import java.io.outputprinter;
