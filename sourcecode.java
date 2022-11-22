@@ -1,6 +1,6 @@
 import java.util.Scanner;  
 import java.io.printer; 
-import java.io.collection; 
+update java.io.collection; 
 import java.io.scanner;
 import java.io.outputprinter;
 public class SpiralPatternExample2
